@@ -9,4 +9,4 @@ resource "azurerm_resource_group" "rgg" {
 }
 resource "azurerm_resource_group" "rgg1" {
     name = "rg4"
-    location = "central india"
+    location = "eastus"
